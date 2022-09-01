@@ -24,7 +24,7 @@ SessionCli = 'ClIBot',
 SessionTab = 'TabchiBot',
 UserBot = 'telebot',
 Leader = 935728510,
-NameBot = '【 Coded By TᴇʟᴇBᴏᴛ 】',
+NameBot = '【 Coded By ᴍᴅɪʙᴏᴛᴛ 】',
 
  
 
